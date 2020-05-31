@@ -1,4 +1,4 @@
-https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info
+http://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info
 
 On this page
 1. Tips for dealing with COVID-19
@@ -6,7 +6,7 @@ On this page
 
 # Tips for dealing with COVID-19
 
-https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips
+http://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips
 
 # Analysis of Ontario COVID-19 cases
 
@@ -62,11 +62,11 @@ https://www.humandx.org/covid-19/assessment
 
 ## 1.2.	enter your data and it tells you where risk is
 
-https://covidnearyou.org/
+http://covidnearyou.org/
 - US, Canada and Mexico
 - will send updates to phone
 
-[https://flatten.ca/heat-map](https://flatten.ca/heat-map)
+http://flatten.ca/heat-map
 - Canadian 
 
 ## 1.3.	Modelling / estimates
