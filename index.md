@@ -62,27 +62,27 @@ All data from Ontario government site.
 
 ## Analysis of Toronto vs Ontario numbers
 
-<iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ontario%20total&wdInConfigurator=True"></iframe>
+<iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ontario%20total&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
 
 ## Analysis of Toronto, Mississauga, York and rest of Ontario
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="708" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Ont%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
+<iframe width="911" height="708" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Ont%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
 
 
 
