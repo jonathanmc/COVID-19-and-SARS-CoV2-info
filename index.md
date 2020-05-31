@@ -1,14 +1,6 @@
-http://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
-
-On this page
-{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=6 %}
-
-1. Tips for dealing with COVID-19
-1. Charts of Ontario case numbers
-1. Links
 
 
-# Tips for dealing with COVID-19 - written May 30, 2020
+# Tips for dealing with COVID-19 (dated May 30, 2020)
 
 [I will likely edit this periodically]
 
@@ -94,39 +86,35 @@ All data from Ontario government site.
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
 
-# Links
 
-## 1.1.	triage sites (self-diagnosis)
+
+
+# Useful links
+
+## 1.1.	self-diagnosis sites
 
 https://covidassessment.org
 
 https://www.humandx.org/covid-19/assessment
 
+## 1.2.	enter your data and it tracks risk, and tells you how much risk in your area
 
-
-## 1.2.	enter your data and it tells you where risk is
-
-[http://covidnearyou.org/](http://flatten.ca/heat-map)
+[http://covidnearyou.org/](http://covidnearyou.org/)
 - US, Canada and Mexico
 - will send updates to phone
 
-[http://flatten.ca/heat-map]
-(http://flatten.ca/heat-map)
+[http://flatten.ca/heat-map](http://flatten.ca/heat-map)
 - Canadian 
 
 ## 1.3.	Modelling / estimates
 
-[https://covid19-projections.com/us](https://covid19-projections.com/us)
-
-[https://covid19-projections.com/canada](https://covid19-projections.com/canada)
-
-[https://covid19-projections.com/canada-ontario](https://covid19-projections.com/canada-ontario)
-
-[https://github.com/youyanggu/covid19_projections/tree/master/r_values](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
-
+- [https://covid19-projections.com/us](https://covid19-projections.com/us)
+- [https://covid19-projections.com/canada](https://covid19-projections.com/canada)
+- [https://covid19-projections.com/canada-ontario](https://covid19-projections.com/canada-ontario)
+- [https://github.com/youyanggu/covid19_projections/tree/master/r_values](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
 - machine learning predictions
 
-[https://reichlab.io/covid19-forecast-hub/](https://reichlab.io/covid19-forecast-hub/)
+- [https://reichlab.io/covid19-forecast-hub/](https://reichlab.io/covid19-forecast-hub/)
 - ensemble models
 
 [https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
@@ -134,17 +122,17 @@ CDC’s page of models
 
 ### 1.3.1.	Individual models:
 
-[https://www.covidanalytics.io/projections](https://www.covidanalytics.io/projections)
-MIT models - few weeks out only
+- [https://www.covidanalytics.io/projections](https://www.covidanalytics.io/projections)
+- MIT models - few weeks out only
 
-https://covid-19.tacc.utexas.edu/projections/
-U Texas models - few weeks out only.
+- https://covid-19.tacc.utexas.edu/projections
+- U Texas models - few weeks out only.
 
-https://covid-19.bsvgateway.org/
-Las Alamos models
+- https://covid-19.bsvgateway.org
+- Las Alamos models
 
-https://covid19.healthdata.org/united-states-of-america
-https://covid19.healthdata.org/canada
+- http://covid19.healthdata.org/united-states-of-america
+- http://covid19.healthdata.org/canada
 - IMHE model. Not very reliable. Models peak heathcare use.
 
 https://epiforecasts.io/covid/posts/national/united-states/
