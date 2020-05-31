@@ -1,4 +1,4 @@
-https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
+https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info
 
 On this page
 1. Tips for dealing with COVID-19
@@ -55,13 +55,16 @@ All data from Ontario government site.
 # Links
 
 ## 1.1.	triage sites (self-diagnosis)
-[https://covidassessment.org/](https://covidassessment.org/)
-[https://www.humandx.org/covid-19/assessment](https://www.humandx.org/covid-19/assessment)
+
+https://covidassessment.org
+
+https://www.humandx.org/covid-19/assessment
+
 
 
 ## 1.2.	enter your data and it tells you where risk is
 
-[https://covidnearyou.org/#!/](https://covidnearyou.org/#!/)
+https://covidnearyou.org/
 - US, Canada and Mexico
 - will send updates to phone
 
