@@ -6,36 +6,36 @@
 
 Well, Ontario is re-opening.
 
-we are still confirming ~350-400 cases a day (latest ~320);
+- we are still confirming ~350-400 cases a day (latest ~320);
 (Charts analyzing the outbreak in Ontario, done with a colleague, are now here: https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/)
 
-we have no front line worker testing ready - we will test if you have symptoms (5% of people never develop and incubation period is 4 or 5 days, so those people still can’t get tested);
+- we have no front line worker testing ready - we will test if you have symptoms (5% of people never develop and incubation period is 4 or 5 days, so those people still can’t get tested);
 
-no contact tracing yet although just recently announced we have 2000 tracers ready to go (if true, finally!);
+- no contact tracing yet although just recently announced we have 2000 tracers ready to go (if true, finally!);
 
-no real plan for people or businesses or condos on how to handle this. No guides to reopening. The retail council made some for their constituents but nothing from the gov.
+- no real plan for people or businesses or condos on how to handle this. No guides to reopening. The retail council made some for their constituents but nothing from the gov.
 
 This will be at BEST be a challenge (read: it’s insane) and we appear to have wasted our lockdown period getting testing/contact tracing up and running. If I seem critical, I am.
 
-That now said, this means more personal effort will have to be put into distancing / being safe / doing the tracking ourselves.
+That said, this means more personal effort will have to be put into distancing / being safe / doing the tracking ourselves.
 
 Here are some tips. Just my thoughts, based on being repeatedly asked these questions:
 
-worst place to be as we re-open is closed spaces with recirc air. i.e. office. So try to stay away. stagger work with co-workers. If someone has gone to a big gathering, stay away from others 14 days. You can always isolate yourself voluntarily.
+- worst place to be as we re-open is closed spaces with recirc air. i.e. office. So try to stay away. stagger work with co-workers. If someone has gone to a big gathering, stay away from others 14 days. You can always isolate yourself voluntarily.
 
-Outdoors? Reasonably safe. When you’re out, assume everyone is a smoker and that you do not want to smell their smoke. Behave accordingly.
+- Outdoors? Reasonably safe. When you’re out, assume everyone is a smoker and that you do not want to smell their smoke. Behave accordingly.
 
-Masks? They’re great. Use em. They stop you spitting out droplets. In 1918 it stopped measles dead in its tracks in an army hospital, so much so they debating not bothering to quarantine wards that caught measles/scarlet fever. Debating it is simply killing people. BTW, if you are outdoors and reasonably far from people, you can take them off.
+- Masks? They’re great. Use em. They stop you spitting out droplets. In 1918 it stopped measles dead in its tracks in an army hospital, so much so they debating not bothering to quarantine wards that caught measles/scarlet fever. Debating it is simply killing people. BTW, if you are outdoors and reasonably far from people, you can take them off.
 
-Groceries? Don’t need to wash everything. Just put perishables away leave the rest for 4 days at your front door, then bring it in.
+- Groceries? Don’t need to wash everything. Just put perishables away leave the rest for 4 days at your front door, then bring it in.
 
-Gloves? don’t bother. They just spread virus everywhere. Just wash your hands and when you’re out carry hand sanitizer and use it liberally. You are much safer.
+- Gloves? Don’t bother. They just spread virus everywhere. Just wash your hands and when you’re out carry hand sanitizer and use it liberally. You are much safer.
 
-Going out? If you absolutely need to go out to a risky venue, do it (life can’t stop), be safe, and then isolate once done. That will reduce spread. Keep a journal of who you were around in case you get sick.
+- Going out? If you absolutely need to go out to a risky venue, do it (life can’t stop), be safe, and then isolate once done. That will reduce spread. Keep a journal of who you were around in case you get sick.
 
-Someone in your household sick? Get them isolated and in a mask. In separate room until a week after they’re better. They should if possible use a separate washroom which is disinfected vigorously, because virus comes through body and out in stool.
+- Someone in your household sick? Get them isolated and in a mask. In separate room until a week after they’re better. They should if possible use a separate washroom which is disinfected vigorously, because virus comes through body and out in stool.
 
-if you live in a condo, see if you can have them block open your garbage room doors so you can use your shoulder to open them. It’s one of the few points in a condo that everybody touches. Automatic doors are good too.
+- If you live in a condo, see if you can have them block open your garbage room doors so you can use your shoulder to open them. It’s one of the few points in a condo that everybody touches. Automatic doors are good too.
 
 Oh, and this will be seasonal. Wait for it but don’t waste time debating it. At least two CoVs that give us colds, E229 and OC63 are. Also, pig CoV is.
 
@@ -59,8 +59,6 @@ All data from Ontario government site.
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20non%20outbreak%20tracin&wdInConfigurator=True"></iframe>
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
-
-## --
 
 ## Analysis of Toronto vs Ontario numbers
 
@@ -288,11 +286,14 @@ https://data.sfgov.org/stories/s/fjki-2fab
 San Francisco
 
 
-# Ontario provincial briefings
+# Other resources
 
-1. CPAC posts all provincial briefings
-1. [May 29](https://youtu.be/0Es3FVv7Dgk)
+## Ontario provincial briefings
 
-# Documents
+CPAC posts all provincial briefings [https://www.youtube.com/user/cpac](https://www.youtube.com/user/cpac)
+
+- [May 29](https://youtu.be/0Es3FVv7Dgk)
+
+## Documents
 
 [SARS Commission report](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
