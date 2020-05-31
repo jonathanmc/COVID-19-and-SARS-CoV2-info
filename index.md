@@ -8,8 +8,6 @@ On this page
 
 https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips
 
-# ---
-
 # Analysis of Ontario COVID-19 cases
 
 By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
