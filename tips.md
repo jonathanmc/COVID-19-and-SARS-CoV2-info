@@ -1,4 +1,4 @@
-https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
+https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info
 
 [I will likely edit this periodically]
 
