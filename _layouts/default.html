@@ -6,11 +6,11 @@
   <body>
 
     {%- include header.html -%}
-    {%- include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
+        {% include toc.html html=content %}
       </div>
     </main>
 
