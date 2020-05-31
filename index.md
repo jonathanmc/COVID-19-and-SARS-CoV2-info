@@ -1,8 +1,14 @@
 https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
+On this page
+1. Tips for dealing with COVID-19
+1. Charts of Ontario case numbers
+
 # Tips for dealing with COVID-19
 
-[Tips here](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips/
+https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips.md
+
+# ---
 
 # Analysis of Ontario COVID-19 cases
 
