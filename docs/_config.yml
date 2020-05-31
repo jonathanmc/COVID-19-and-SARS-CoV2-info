@@ -1,4 +1,4 @@
-title: https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
+title: COVID-19 / SARS-CoV2 info
 author: me
 email: jonathanmc@gmail.com
 description: https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
@@ -9,5 +9,5 @@ github_username:  jonathanmc	# DO NOT include the @ character, or else the build
 
 show_excerpts: true 		# set to false to remove excerpts on the homepage
 
-theme: minima
-#theme: jekyll-theme-cayman
+#theme: minima
+theme: jekyll-theme-cayman
