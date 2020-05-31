@@ -4,13 +4,15 @@ https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
 By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
 
-## Non-outbreak cases
+All data from Ontario government site.
 
-### Ontario non-outbreak cases
+## Non-outbreak COVID-19 cases
+
+### Ontario
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ontario%20non%20outbreak%20tracing&wdInConfigurator=True"></iframe>
 
-### Ontario excluding Toronto
+### Ontario ex-Toronto
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont-Tor%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
@@ -18,7 +20,7 @@ By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20non%20outbreak%20tracin&wdInConfigurator=True"></iframe>
 
-### Peel non-outbreak
+### Peel
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
