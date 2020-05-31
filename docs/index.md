@@ -1,6 +1,10 @@
 https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
+<iframe width="700" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&Item=Ontario%20non%20outbreak%20tracing&wdInConfigurator=True"></iframe>
+
 <iframe src="https://onedrive.live.com/embed?cid=8AC01DB97FB9EA8B&resid=8AC01DB97FB9EA8B%212545&authkey=AErAkjoFAjh5jQw&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+
+
 
 # Provincial briefings
 
@@ -14,19 +18,18 @@ https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
 
 # 1.1.	triage sites (self-diagnosis)
-https://covidassessment.org/
-
-https://www.humandx.org/covid-19/assessment
+[https://covidassessment.org/](https://covidassessment.org/)
+[https://www.humandx.org/covid-19/assessment](https://www.humandx.org/covid-19/assessment)
 
 
 # 1.2.	enter your data and it tells you where risk is
 
-https://covidnearyou.org/#!/
+[https://covidnearyou.org/#!/](https://covidnearyou.org/#!/)
 - US, Canada and Mexico
 - will send updates to phone
 
-Canadian:
-https://flatten.ca/heat-map
+[https://flatten.ca/heat-map](https://flatten.ca/heat-map)
+- Canadian 
 
 # 1.3.	Modelling / estimates
 
