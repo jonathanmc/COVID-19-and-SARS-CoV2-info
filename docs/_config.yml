@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: SARS2
+author: me
+email: jonathanmc@gmail.com
+description: z
+
+# social links
+twitter_username: jmcrookston	# DO NOT include the @ character, or else the build will fail!
+github_username:  jonathanmc	# DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true 		# set to false to remove excerpts on the homepage
+
+theme: minima
+#theme: jekyll-theme-cayman
