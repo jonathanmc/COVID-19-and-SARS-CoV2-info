@@ -6,7 +6,7 @@ By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
 
 All data from Ontario government site.
 
-## Analysis of community transmission in Ontario (so, excluding all outbreak cases)
+## Analysis of community transmission in Ontario (therefore excluding all outbreak cases)
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ontario%20non%20outbreak%20tracing&wdInConfigurator=True"></iframe>
 
@@ -16,6 +16,8 @@ All data from Ontario government site.
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
+## --
+
 ## Analysis of Toronto vs Ontario numbers
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ontario%20total&wdInConfigurator=True"></iframe>
@@ -23,6 +25,8 @@ All data from Ontario government site.
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
+
+## Analysis of Toronto, Mississauga, York and rest of Ontario
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212544&authkey=%21ADUoo1WwOnHLIAk&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
 
@@ -56,21 +60,21 @@ All data from Ontario government site.
 
 ## 1.3.	Modelling / estimates
 
-https://covid19-projections.com/us
-https://covid19-projections.com/canada
-https://covid19-projections.com/canada-ontario
+[https://covid19-projections.com/us](https://covid19-projections.com/us)
+[https://covid19-projections.com/canada](https://covid19-projections.com/canada)
+[https://covid19-projections.com/canada-ontario](https://covid19-projections.com/canada-ontario)
+[https://github.com/youyanggu/covid19_projections/tree/master/r_values](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
 - machine learning predictions
-https://github.com/youyanggu/covid19_projections/tree/master/r_values
 
-https://reichlab.io/covid19-forecast-hub/
+[https://reichlab.io/covid19-forecast-hub/](https://reichlab.io/covid19-forecast-hub/)
 - ensemble models
 
-https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html
+[https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 CDC’s page of models
 
 ### 1.3.1.	Individual models:
 
-https://www.covidanalytics.io/projections
+[https://www.covidanalytics.io/projections](https://www.covidanalytics.io/projections)
 MIT models - few weeks out only
 
 https://covid-19.tacc.utexas.edu/projections/
