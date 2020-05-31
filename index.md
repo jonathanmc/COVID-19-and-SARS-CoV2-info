@@ -1,12 +1,14 @@
 http://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
 On this page
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=6 %}
+
 1. Tips for dealing with COVID-19
 1. Charts of Ontario case numbers
+1. Links
 
 
-
-# Tips for dealing with COVID-19
+# Tips for dealing with COVID-19 - written May 30, 2020
 
 [I will likely edit this periodically]
 
