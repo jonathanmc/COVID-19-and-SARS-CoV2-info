@@ -106,69 +106,67 @@ https://www.humandx.org/covid-19/assessment
 
 ## 1.3.	Modelling / estimates
 
-- [https://covid19-projections.com/us](https://covid19-projections.com/us)
-- [https://covid19-projections.com/canada](https://covid19-projections.com/canada)
-- [https://covid19-projections.com/canada-ontario](https://covid19-projections.com/canada-ontario)
-- [https://github.com/youyanggu/covid19_projections/tree/master/r_values](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
+[https://covid19-projections.com/us](https://covid19-projections.com/us)
+[https://covid19-projections.com/canada](https://covid19-projections.com/canada)
+[https://covid19-projections.com/canada-ontario](https://covid19-projections.com/canada-ontario)
+[https://github.com/youyanggu/covid19_projections/tree/master/r_values](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
 - machine learning predictions
 
-- [https://reichlab.io/covid19-forecast-hub/](https://reichlab.io/covid19-forecast-hub/)
+[https://reichlab.io/covid19-forecast-hub/](https://reichlab.io/covid19-forecast-hub/)
 - ensemble models
 
 [https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
-CDC’s page of models
+- CDC’s page of models
 
 ### 1.3.1.	Individual models:
 
-- [https://www.covidanalytics.io/projections](https://www.covidanalytics.io/projections)
+[https://www.covidanalytics.io/projections](https://www.covidanalytics.io/projections)
 - MIT models - few weeks out only
 
-- https://covid-19.tacc.utexas.edu/projections
+[https://covid-19.tacc.utexas.edu/projections](https://covid-19.tacc.utexas.edu/projections)
 - U Texas models - few weeks out only.
 
-- https://covid-19.bsvgateway.org
+[https://covid-19.bsvgateway.org](https://covid-19.bsvgateway.org)
 - Las Alamos models
 
-- http://covid19.healthdata.org/united-states-of-america
-- http://covid19.healthdata.org/canada
+[http://covid19.healthdata.org/united-states-of-america](http://covid19.healthdata.org/united-states-of-america)
+[http://covid19.healthdata.org/canada](http://covid19.healthdata.org/canada)
 - IMHE model. Not very reliable. Models peak heathcare use.
 
-https://epiforecasts.io/covid/posts/national/united-states/
-https://epiforecasts.io/covid/posts/national/canada/
+[https://epiforecasts.io/covid/posts/national/united-states/](https://epiforecasts.io/covid/posts/national/united-states/)
+[https://epiforecasts.io/covid/posts/national/canada/](https://epiforecasts.io/covid/posts/national/canada/)
 - R0 estimates
 
-https://cmmid.github.io/visualisations/inferring-covid19-cases-from-deaths
+[https://cmmid.github.io/visualisations/inferring-covid19-cases-from-deaths](https://cmmid.github.io/visualisations/inferring-covid19-cases-from-deaths)
 - estimating cases where there are one or two deaths.
 
-
-http://gabgoh.github.io/COVID/index.html
+[http://gabgoh.github.io/COVID/index.html](http://gabgoh.github.io/COVID/index.html)
 Epidemic Calculator
 
-
-https://art-bd.shinyapps.io/nCov_control/
+[https://art-bd.shinyapps.io/nCov_control/](https://art-bd.shinyapps.io/nCov_control/)
 Reporting, epidemic growth, and reproduction numbers for the 2019-nCoV epidemic: understanding control
 
-https://larremorelab.github.io/covid-calculator1
+[https://larremorelab.github.io/covid-calculator1](https://larremorelab.github.io/covid-calculator1)
 Prevalence calculator
 
 ## 1.4.	Case dashboards and other data
 
-
-https://ourworldindata.org/
+[https://ourworldindata.org/](https://ourworldindata.org/)
 - very good
 
-https://www.ft.com/coronavirus-latest
+[https://www.ft.com/coronavirus-latest](https://www.ft.com/coronavirus-latest)
 - good charts of deaths by countries, including excess mortality charts
 
-Swedish ICU data:
-https://www.icuregswe.org/en/data--results/covid-19-in-swedish-intensive-care/
 
-http://www.cidrap.umn.edu/covid-19/maps-visuals
+[https://www.icuregswe.org/en/data--results/covid-19-in-swedish-intensive-care/](https://www.icuregswe.org/en/data--results/covid-19-in-swedish-intensive-care/)
+- Swedish ICU data:
+
+[http://www.cidrap.umn.edu/covid-19/maps-visuals](http://www.cidrap.umn.edu/covid-19/maps-visuals)
 List of COVID-19 tracking dashboards
 
-https://coronavirus.jhu.edu/map.html
-https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-Johns Hopkins
+[https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html)
+[https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- Johns Hopkins
 
 GITHUB repo of all WHO sitreps
 https://github.com/CSSEGISandData/COVID-19
