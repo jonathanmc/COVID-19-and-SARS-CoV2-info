@@ -50,6 +50,8 @@ By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
 
 All data from Ontario government site.
 
+*Please remember that the last 5 or so days in every chart are going to grow as case results arrive so do not place any weight on this end tail to the charts ...*
+
 ## Analysis of community transmission in Ontario (therefore excluding all outbreak cases)
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20non%20outbreak&wdInConfigurator=True"></iframe>
