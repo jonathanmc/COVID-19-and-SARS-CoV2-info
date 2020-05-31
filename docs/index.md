@@ -6,19 +6,19 @@ By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
 
 ## Toronto non-outbreak cases
 
-<iframe width="900" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20non%20outbreak%20tracin&wdInConfigurator=True"></iframe>
+<iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20non%20outbreak%20tracin&wdInConfigurator=True"></iframe>
 
 ## Peel non-outbreak
 
-<iframe width="900" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
+<iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
 ## Ontario-Toronto non-outbreak
 
-<iframe width="900" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont-Tor%20non%20outbreak%20&wdInConfigurator=True"></iframe>
+<iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont-Tor%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
 ## Ontario non-outbreak cases
 
-<iframe width="900" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ontario%20non%20outbreak%20tracing&wdInConfigurator=True"></iframe>
+<iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ontario%20non%20outbreak%20tracing&wdInConfigurator=True"></iframe>
 
 # Links
 
