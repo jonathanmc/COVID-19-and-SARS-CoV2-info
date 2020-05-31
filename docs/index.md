@@ -2,6 +2,8 @@ https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
 # Analysis of Ontario COVID-19 cases
 
+By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
+
 ## Toronto non-outbreak cases
 
 <iframe width="900" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20non%20outbreak%20tracin&wdInConfigurator=True"></iframe>
