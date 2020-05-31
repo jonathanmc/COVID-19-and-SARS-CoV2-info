@@ -6,7 +6,7 @@ On this page
 
 # Tips for dealing with COVID-19
 
-https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips.md
+https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/tips
 
 # ---
 
