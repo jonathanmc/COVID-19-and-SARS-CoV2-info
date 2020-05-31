@@ -6,21 +6,13 @@ By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me
 
 All data from Ontario government site.
 
-## Non-outbreak COVID-19 cases
-
-### Ontario
+## COVID-19 cases in Ontario, all excluding outbreak cases (just community transmission)
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ontario%20non%20outbreak%20tracing&wdInConfigurator=True"></iframe>
 
-### Ontario ex-Toronto
-
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont-Tor%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
-### Toronto
-
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20non%20outbreak%20tracin&wdInConfigurator=True"></iframe>
-
-### Peel
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
