@@ -1,5 +1,7 @@
 https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
 
+<iframe src="https://onedrive.live.com/embed?cid=8AC01DB97FB9EA8B&resid=8AC01DB97FB9EA8B%212545&authkey=AErAkjoFAjh5jQw&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+
 # Provincial briefings
 
 1. CPAC posts all provincial briefings
