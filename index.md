@@ -1,7 +1,7 @@
 
 # Analysis of Ontario COVID-19 cases
 
-By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and me, but mostly him
+By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) mostly, and me a bit
 
 All data from Ontario government site.
 
