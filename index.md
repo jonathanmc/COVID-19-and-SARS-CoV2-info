@@ -296,6 +296,51 @@ https://data.sfgov.org/stories/s/fjki-2fab
 San Francisco
 
 
+# Scientific  resources
+
+
+1974 Monto - review of corona
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf
+
+1975 Coronaviridae. Tyrrell DA, Almeida JD, Cunningham CH, Dowdle WR, Hofstad MS, McIntosh K, Tajima M, Zakstelskaya LY, Easterday BC, Kapikian A, Bingham RW.
+  https://www.ncbi.nlm.nih.gov/pubmed/1184350
+
+Intervirology. 1978;10(6):321-8. Coronaviridae: second report. Tyrrell DA, Alexander DJ, Almeida JD, Cunningham CH, Easterday BC, Garwes DJ, Hierholzer JC, Kapikian A, Macnaughton MR, McIntosh K.
+  https://www.ncbi.nlm.nih.gov/pubmed/213397
+
+1979 Characterization of coronaviruses 1-s2.0-0042682279904689-main
+
+1979 Robb and Bond - Pathogenic murine coronaviruses 1-s2.0-0042682279904677-main
+  https://www.sciencedirect.com/science/article/pii/0042682279904677
+
+1980 Siddell - Biochemistry of coronaviruses
+  https://www.ncbi.nlm.nih.gov/pubmed/7039259
+
+1981 Biochemistry and Biology of Coronaviruses V. ter MeulenS. SiddellH. Wege
+  https://link.springer.com/content/pdf/10.1007%2F978-1-4757-0456-3.pdf
+
+1981 Mahy 1981 - Biochemistry Of Coronaviruses
+  https://www.ncbi.nlm.nih.gov/pubmed/6300299
+  https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-64-4-761
+
+1983 Siddell - Biology of coronaviruses (J Gen Virol) - JV0640040761
+
+1983 Siddell - Coronaviridae (Intervirology)
+  https://www.ncbi.nlm.nih.gov/pubmed/6654644
+
+2010 Infectious Diseases book - Schaffer et al “Respiratory chapter”
+  https://www.sciencedirect.com/science/article/pii/B9780323045797001623
+
+2012 Virus taxonomy book
+  https://www.sciencedirect.com/science/article/pii/B9780123846846000689
+
+2012 Virology book - Korsman “Human coronaviruses”
+  https://www.sciencedirect.com/science/article/pii/B9780443073670000409
+
+2015 Anthony R. Fehr and Stanley Perlman, M.D., Ph.D - Coronaviruses: An Overview of Their Replication and Pathogenesis
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/
+
+
 # Other resources
 
 ## Ontario provincial briefings
