@@ -204,8 +204,6 @@ https://experience.arcgis.com/experience/2f1a13ca0b29422f9b34660f0b705043/
 Public Health Canada’s dashboard, by province
 - not great
 
-
-
 unofficial:
 
 http://www.covid-19canada.com/
@@ -219,11 +217,24 @@ https://art-bd.shinyapps.io/covid19canada/
 
 official
 
+http://covid-19.ontario.ca/
+- main page
+- links to the responding page below
+- also links to data
+  1. data on cases
+[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
+  1. data on dstatus of cases
+[https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario)
+
+[https://www.ontario.ca/page/how-ontario-is-responding-covid-19](https://www.ontario.ca/page/how-ontario-is-responding-covid-19)
+- has stats
+
 [https://www.ontario.ca/page/2019-novel-coronavirus](https://www.ontario.ca/page/2019-novel-coronavirus)
 - Ontario COVID-19 page
 
-[https://www.ontario.ca/page/how-ontario-is-responding-covid-19](https://www.ontario.ca/page/how-ontario-is-responding-covid-19)
-- has some stats
+[https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario](https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario)
+- daily epi summaries
+
 
 [https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus](https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus)
 - how you can help
@@ -233,31 +244,27 @@ official
 - Ontario data
 
 
-
-
 unofficial:
 
-https://howsmyflattening.ca/#/analysis
+[https://howsmyflattening.ca/#/analysis](https://howsmyflattening.ca/#/analysis)
 Ontario specific. 
 - has testing numbers
 
-https://public.tableau.com/profile/oma.era#!/vizhome/CovidTable/Dashboard22
-Ontario Medical Association
+[https://public.tableau.com/profile/oma.era#!/vizhome/CovidTable/Dashboard22](https://public.tableau.com/profile/oma.era#!/vizhome/CovidTable/Dashboard22)
+- Ontario Medical Association
+- pretty good dashboard
 
-http://www.ontario19.com/
-Ontario, unofficial
+[http://www.ontario19.com/](http://www.ontario19.com/)
 - has cases per 100k per region
 
 
-rules etc
+rules etc:
 
 Health Protection and Promotion Act, RSO 1990, c H.7
 
 Emergency Management and Civil Protection Act, RSO 1990, c E
 https://www.canlii.org/en/on/laws/stat/rso-1990-c-e9/latest/rso-1990-c-e9.html
 
-SARS Commission report
-http://www.archives.gov.on.ca/en/e_records/sars/report/index.html
 
 
 ### 1.4.3.	Regional, City of Toronto, etc.
@@ -301,4 +308,6 @@ CPAC posts all provincial briefings [https://www.youtube.com/user/cpac](https://
 
 ## Documents
 
-[SARS Commission report](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
+[SARS Commission report](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/documents/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
+
+[SARS Commission report website](http://www.archives.gov.on.ca/en/e_records/sars/report/index.html)
