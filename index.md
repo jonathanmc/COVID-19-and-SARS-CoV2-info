@@ -1,5 +1,4 @@
 
-
 # Tips for dealing with COVID-19 (dated May 30, 2020)
 
 [I will likely edit this periodically]
@@ -162,18 +161,17 @@ Prevalence calculator
 - Swedish ICU data:
 
 [http://www.cidrap.umn.edu/covid-19/maps-visuals](http://www.cidrap.umn.edu/covid-19/maps-visuals)
-List of COVID-19 tracking dashboards
+- List of COVID-19 tracking dashboards
 
 [https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html)
 [https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - Johns Hopkins
 
-GITHUB repo of all WHO sitreps
+- GITHUB repo of all WHO sitreps
 https://github.com/CSSEGISandData/COVID-19
 
-
 http://nssac.bii.virginia.edu/covid-19/dashboard/
-Can animate
+- Can animate the outbreak
 
 https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
 
@@ -185,11 +183,13 @@ https://www.healthmap.org/covid-19/
 https://www.google.com/search?&q=covid+number
 - Google search will show you covid numbers.
 - Google news dashboard:
-https://news.google.com/covid19/map?hl=en-CA&gl=CA&ceid=CA:en
 
+https://news.google.com/covid19/map?hl=en-CA&gl=CA&ceid=CA:en
 
 https://covid19.who.int/
 - WHO dashboard. Largely useless.
+
+
 
 ### 1.4.1.	Canada 
 
@@ -217,14 +217,19 @@ https://art-bd.shinyapps.io/covid19canada/
 
 official
 
-https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
+[https://www.ontario.ca/page/2019-novel-coronavirus](https://www.ontario.ca/page/2019-novel-coronavirus)
+- Ontario COVID-19 page
 
-https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350
-
-https://www.ontario.ca/page/2019-novel-coronavirus
-
-https://www.ontario.ca/page/how-ontario-is-responding-covid-19#section-0
+[https://www.ontario.ca/page/how-ontario-is-responding-covid-19](https://www.ontario.ca/page/how-ontario-is-responding-covid-19)
 - has some stats
+
+[https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus](https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus)
+- how you can help
+
+[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
+[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
+- Ontario data
+
 
 
 
