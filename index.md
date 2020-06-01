@@ -217,7 +217,7 @@ https://art-bd.shinyapps.io/covid19canada/
 
 official
 
-http://covid-19.ontario.ca/
+[http://covid-19.ontario.ca/](http://covid-19.ontario.ca/)
 - main page
 - links to the responding page below
 - also links to data
@@ -228,13 +228,12 @@ http://covid-19.ontario.ca/
 
 [https://www.ontario.ca/page/how-ontario-is-responding-covid-19](https://www.ontario.ca/page/how-ontario-is-responding-covid-19)
 - has stats
+- links to epi data:
+- [https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario](https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario)
+-- daily epi summaries
 
 [https://www.ontario.ca/page/2019-novel-coronavirus](https://www.ontario.ca/page/2019-novel-coronavirus)
 - Ontario COVID-19 page
-
-[https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario](https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario)
-- daily epi summaries
-
 
 [https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus](https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus)
 - how you can help
@@ -302,9 +301,8 @@ San Francisco
 
 ## Ontario provincial briefings
 
-CPAC posts all provincial briefings [https://www.youtube.com/user/cpac](https://www.youtube.com/user/cpac)
-
-- [May 29](https://youtu.be/0Es3FVv7Dgk)
+- CPAC posts all provincial briefings here: [https://www.youtube.com/user/cpac](https://www.youtube.com/user/cpac)
+- May 29 briefing, for example, [https://youtu.be/0Es3FVv7Dgk](https://youtu.be/0Es3FVv7Dgk)
 
 ## Documents
 
