@@ -1,9 +1,8 @@
-
 # Analysis of Ontario COVID-19 cases
 
-By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) mostly, and me a bit
+By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and [@jmcrookston](https://twitter.com/jmcrookston)
 
-All data from Ontario government site.
+All data from Ontario government.
 
 *Please remember that the last 5 or so days in every chart are going to grow as case results arrive so do not place any weight on this end tail to the charts ...*
 
@@ -17,7 +16,7 @@ All data from Ontario government site.
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
-## Analysis of Toronto vs Ontario numbers
+## Analysis of Toronto vs Ontario
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ontario%20total&wdInConfigurator=True"></iframe>
 
@@ -27,6 +26,7 @@ All data from Ontario government site.
 
 ## Analysis of Toronto, Mississauga, York and rest of Ontario
 
+### all cases
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
