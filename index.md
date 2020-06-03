@@ -10,9 +10,7 @@ Please remember that the last 7 or so days in every chart are not yet complete, 
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
 
-## Ontario, community transmission only (ex outbreak cases)
-
-This section has charts about Ontario cases, then regional cases, broken down by type of transmission.
+## Community transmission by region, and how it spread
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20non%20outbreak&wdInConfigurator=True"></iframe>
 
