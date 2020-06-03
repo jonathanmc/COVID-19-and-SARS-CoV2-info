@@ -22,15 +22,13 @@ This section has charts about Ontario cases, then regional cases, broken down by
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
-## Toronto vs Ontario
-
-Toronto v Ontario. First all cases, then outbreak cases, then non-outbreak cases.
+## Toronto vs Ontario numbers
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ontario%20total&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
-
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
+
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
 
 ## Toronto, Mississauga, York and rest of Ontario
 
@@ -50,7 +48,7 @@ Toronto v Ontario. First all cases, then outbreak cases, then non-outbreak cases
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
 
-## 2
+## GTA vs rest of Ontario, only outbreak numbers
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
 
