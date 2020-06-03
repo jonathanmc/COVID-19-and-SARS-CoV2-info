@@ -2,7 +2,7 @@
 
 By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and [@jmcrookston](https://twitter.com/jmcrookston)
 
-All data from Ontario government.
+All data from Ontario government -> [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
 
 *Please remember that the last 5 or so days in every chart are going to grow as case results arrive so do not place any weight on this end tail to the charts ...*
 
@@ -222,8 +222,11 @@ official
 - also links to data
   1. data on cases
 [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
-  1. data on dstatus of cases
+  1. data on status of cases
 [https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario)
+  1. dataset:
+[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
+- Ontario data
 
 [https://www.ontario.ca/page/how-ontario-is-responding-covid-19](https://www.ontario.ca/page/how-ontario-is-responding-covid-19)
 - has stats
@@ -237,9 +240,6 @@ official
 [https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus](https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus)
 - how you can help
 
-[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
-[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
-- Ontario data
 
 
 unofficial:
@@ -353,3 +353,5 @@ Intervirology. 1978;10(6):321-8. Coronaviridae: second report. Tyrrell DA, Alexa
 [SARS Commission report](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/documents/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
 
 [SARS Commission report website](http://www.archives.gov.on.ca/en/e_records/sars/report/index.html)
+
+# Masks
