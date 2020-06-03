@@ -1,12 +1,18 @@
-# Analysis of Ontario COVID-19 cases
+# Charts of Ontario COVID-19 cases
 
 By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and [@jmcrookston](https://twitter.com/jmcrookston)
 
-All data from Ontario government -> [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
+Data from Ontario government here [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
 
-*Please remember that the last 5 or so days in every chart are going to grow as case results arrive so do not place any weight on this end tail to the charts ...*
+**Please remember that the last 7 or so days in every chart are not yet complete, as cases are still being reported.  Do not place any weight on the end tail to these charts.**
 
-## Analysis of community transmission in Ontario (therefore excluding all outbreak cases)
+## If you look at just one chart, look at this one.
+
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
+
+## Ontario, community transmission only (EXCLUDING outbreak cases)
+
+This section has charts about Ontario cases, then regional cases, broken down by type of transmission.
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20non%20outbreak&wdInConfigurator=True"></iframe>
 
@@ -16,7 +22,9 @@ All data from Ontario government -> [https://data.ontario.ca/dataset/confirmed-p
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Peel%20non%20outbreak%20&wdInConfigurator=True"></iframe>
 
-## Analysis of Toronto vs Ontario
+## Toronto vs Ontario
+
+Toronto v Ontario, all cases, then outbreak cases, then non-outbreak cases.
 
 <iframe width="911" height="700" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ontario%20total&wdInConfigurator=True"></iframe>
 
@@ -24,18 +32,19 @@ All data from Ontario government -> [https://data.ontario.ca/dataset/confirmed-p
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Toronto%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
 
-## Analysis of Toronto, Mississauga, York and rest of Ontario
+## Toronto, Mississauga, York and rest of Ontario
 
-### all cases
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20Miss%20York%20vs%20rest%20Ont%20comm)&wdInConfigurator=True"></iframe>
 
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
-
-<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
+## Outbreak vs non-outbreak cases
 
 <iframe width="911" height="708" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Ont%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
+
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20unstacked&wdInConfigurator=True"></iframe>
+
+<iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=Tor%20by%20outbreak%20stacked&wdInConfigurator=True"></iframe>
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20outbreak&wdInConfigurator=True"></iframe>
 
