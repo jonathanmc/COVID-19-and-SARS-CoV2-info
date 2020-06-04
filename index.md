@@ -1,3 +1,5 @@
+Charts
+
 # Charts of Ontario COVID-19 cases
 
 By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and [@jmcrookston](https://twitter.com/jmcrookston)
