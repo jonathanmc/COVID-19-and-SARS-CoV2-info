@@ -1,8 +1,8 @@
-Charts
+Information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it)
+
+By [@niemczwiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston).
 
 # Charts of Ontario COVID-19 cases
-
-By [@niemczwiczIP](https://twitter.com/niemkiewiczIP) and [@jmcrookston](https://twitter.com/jmcrookston)
 
 Data from Ontario government here [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
 
@@ -54,8 +54,7 @@ Please remember that the last 7 or so days in every chart are not yet complete, 
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
 
-
-# Tips for dealing with COVID-19 (dated May 30, 2020)
+# Tips for dealing with COVID-19 (written May 30, 2020)
 
 [I will likely edit this periodically]
 
@@ -97,7 +96,9 @@ Oh, and this will be seasonal. Wait for it but don’t waste time debating it. A
 I may add to this or get it on a github. Anyone have other other tips feel free to send my way.
 
 
-# examples of clusters
+# Examples of clusters of attack of COVID-19.
+
+These may show you how this virus travels. Names are the primary authors of the reported studies. I've only put the graphics here for now.
 
 ## Hunan
 
