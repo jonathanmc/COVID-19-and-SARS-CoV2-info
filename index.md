@@ -95,24 +95,49 @@ Oh, and this will be seasonal. Wait for it but don’t waste time debating it. A
 I may add to this or get it on a github. Anyone have other other tips feel free to send my way.
 
 
+# examples of clusters
 
+## Hunan
 
+![a](2020-01 Hunan bus2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_073626.webp)
+
+## Cai
+
+![a](2020-04 Lu 20-0764-F1.jpg)
+
+## Lu
+
+![a](2020-04 Lu 20-0764-F1.jpg)
+
+## Singapore  
+
+![a](2020-04 Singapore gr1_lrg.jpg)
+![a](2020-04 Singapore gr2_lrg.jpg)
+
+## Choir outbreak
+
+![a](2020-05 choir mm6919e6-F.png)
+
+## Korean call centre outbreak
+
+![a](2020-xx call centre 20-1274-F1.jpg)
+![a](2020-xx call centre 20-1274-F2.jpg)
 
 # Useful links
 
 ## 1.1.	self-diagnosis sites
 
-https://covidassessment.org
+<https://covidassessment.org>
 
-https://www.humandx.org/covid-19/assessment
+<https://www.humandx.org/covid-19/assessment>
 
 ## 1.2.	enter your data and it tracks risk, and tells you how much risk in your area
 
-[http://covidnearyou.org/](http://covidnearyou.org/)
+<http://covidnearyou.org/>
 - US, Canada and Mexico
 - will send updates to phone
 
-[http://flatten.ca/heat-map](http://flatten.ca/heat-map)
+<http://flatten.ca/heat-map>
 - Canadian
 
 ## 1.3.	Modelling / estimates

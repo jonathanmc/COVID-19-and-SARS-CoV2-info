@@ -1,3 +1,3 @@
 # SARS2-info
 
-testl
+SARS2 information
