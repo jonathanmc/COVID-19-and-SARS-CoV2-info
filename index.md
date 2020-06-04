@@ -145,24 +145,24 @@ These may show you how this virus travels. Names are the primary authors of the 
 
 ## 1.3.	Modelling / estimates
 
-[https://covid19-projections.com/us](https://covid19-projections.com/us)
-[https://covid19-projections.com/canada](https://covid19-projections.com/canada)
-[https://covid19-projections.com/canada-ontario](https://covid19-projections.com/canada-ontario)
-[https://github.com/youyanggu/covid19_projections/tree/master/r_values](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
+<https://covid19-projections.com/us>
+<https://covid19-projections.com/canada>
+<https://covid19-projections.com/canada-ontario>
+<https://github.com/youyanggu/covid19_projections/tree/master/r_values>
 - machine learning predictions
 
-[https://reichlab.io/covid19-forecast-hub/](https://reichlab.io/covid19-forecast-hub/)
+<https://reichlab.io/covid19-forecast-hub/>
 - ensemble models
 
-[https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+<https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html>
 - CDC’s page of models
 
 ### 1.3.1.	Individual models:
 
-[https://www.covidanalytics.io/projections](https://www.covidanalytics.io/projections)
+<https://www.covidanalytics.io/projections>
 - MIT models - few weeks out only
 
-[https://covid-19.tacc.utexas.edu/projections](https://covid-19.tacc.utexas.edu/projections)
+<https://covid-19.tacc.utexas.edu/projections>
 - U Texas models - few weeks out only.
 
 [https://covid-19.bsvgateway.org](https://covid-19.bsvgateway.org)
@@ -235,19 +235,19 @@ https://covid19.who.int/
 
 official:
 
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
+<https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 Canada cases, official
 
-https://experience.arcgis.com/experience/2f1a13ca0b29422f9b34660f0b705043/
+<https://experience.arcgis.com/experience/2f1a13ca0b29422f9b34660f0b705043/>
 Public Health Canada’s dashboard, by province
 - not great
 
 unofficial:
 
-http://www.covid-19canada.com/
+<http://www.covid-19canada.com/>
 Canada cases, unofficial:
 
-https://art-bd.shinyapps.io/covid19canada/
+<https://art-bd.shinyapps.io/covid19canada/>
 - not great
 
 
@@ -255,43 +255,43 @@ https://art-bd.shinyapps.io/covid19canada/
 
 official
 
-[http://covid-19.ontario.ca/](http://covid-19.ontario.ca/)
+<http://covid-19.ontario.ca/>
 - main page
 - links to the responding page below
 - also links to data
   1. data on cases
-[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
+<https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario>
   1. data on status of cases
-[https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario)
+<https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario>
   1. dataset:
-[https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
+<https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350>
 - Ontario data
 
-[https://www.ontario.ca/page/how-ontario-is-responding-covid-19](https://www.ontario.ca/page/how-ontario-is-responding-covid-19)
+<https://www.ontario.ca/page/how-ontario-is-responding-covid-19>
 - has stats
 - links to epi data:
-- [https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario](https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario)
+<https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario>
 -- daily epi summaries
 
-[https://www.ontario.ca/page/2019-novel-coronavirus](https://www.ontario.ca/page/2019-novel-coronavirus)
+<https://www.ontario.ca/page/2019-novel-coronavirus>
 - Ontario COVID-19 page
 
-[https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus](https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus)
+<https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus>
 - how you can help
 
 
 
 unofficial:
 
-[https://howsmyflattening.ca/#/analysis](https://howsmyflattening.ca/#/analysis)
+<https://howsmyflattening.ca/#/analysis>
 Ontario specific.
 - has testing numbers
 
-[https://public.tableau.com/profile/oma.era#!/vizhome/CovidTable/Dashboard22](https://public.tableau.com/profile/oma.era#!/vizhome/CovidTable/Dashboard22)
+<https://public.tableau.com/profile/oma.era#!/vizhome/CovidTable/Dashboard22>
 - Ontario Medical Association
 - pretty good dashboard
 
-[http://www.ontario19.com/](http://www.ontario19.com/)
+<http://www.ontario19.com/>
 - has cases per 100k per region
 
 
@@ -300,38 +300,38 @@ rules etc:
 Health Protection and Promotion Act, RSO 1990, c H.7
 
 Emergency Management and Civil Protection Act, RSO 1990, c E
-https://www.canlii.org/en/on/laws/stat/rso-1990-c-e9/latest/rso-1990-c-e9.html
+<https://www.canlii.org/en/on/laws/stat/rso-1990-c-e9/latest/rso-1990-c-e9.html>
 
 
 
 ### 1.4.3.	Regional, City of Toronto, etc.
 
-https://www.toronto.ca/home/covid-19/
+<https://www.toronto.ca/home/covid-19/>
 
-https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
+<https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
 
-https://www.toronto.ca/home/covid-19/covid-19-what-you-should-do/covid-19-orders-directives-by-laws/
+<https://www.toronto.ca/home/covid-19/covid-19-what-you-should-do/covid-19-orders-directives-by-laws/>
 
 Haldimand orders:
-https://hnhu.org/orders-issued-by-the-medical-officer-of-health/
+<https://hnhu.org/orders-issued-by-the-medical-officer-of-health/>
 
 
 ### 1.4.4.	US
 
-https://covidtracking.com/
+<https://covidtracking.com/>
 tracks US cases by state and grades the data
 
-https://coronavirus.1point3acres.com/en
+<https://coronavirus.1point3acres.com/en>
 US and Canada information
 
 ### 1.4.5.	US by state
 
-https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-metro-area-tracker.html?action=click&module=RelatedLinks&pgtype=Article
+<https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-metro-area-tracker.html?action=click&module=RelatedLinks&pgtype=Article>
 
-https://www.sfdph.org/dph/alerts/coronavirus.asp
+<https://www.sfdph.org/dph/alerts/coronavirus.asp>
 San Francisco
 
-https://data.sfgov.org/stories/s/fjki-2fab
+<https://data.sfgov.org/stories/s/fjki-2fab>
 San Francisco
 
 
@@ -342,50 +342,50 @@ San Francisco
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf
 
 1975 Coronaviridae. Tyrrell DA, Almeida JD, Cunningham CH, Dowdle WR, Hofstad MS, McIntosh K, Tajima M, Zakstelskaya LY, Easterday BC, Kapikian A, Bingham RW.
-  https://www.ncbi.nlm.nih.gov/pubmed/1184350
+<https://www.ncbi.nlm.nih.gov/pubmed/1184350>
 
 Intervirology. 1978;10(6):321-8. Coronaviridae: second report. Tyrrell DA, Alexander DJ, Almeida JD, Cunningham CH, Easterday BC, Garwes DJ, Hierholzer JC, Kapikian A, Macnaughton MR, McIntosh K.
-  https://www.ncbi.nlm.nih.gov/pubmed/213397
+<https://www.ncbi.nlm.nih.gov/pubmed/213397>
 
 1979 Characterization of coronaviruses 1-s2.0-0042682279904689-main
 
 1979 Robb and Bond - Pathogenic murine coronaviruses 1-s2.0-0042682279904677-main
-  https://www.sciencedirect.com/science/article/pii/0042682279904677
+<https://www.sciencedirect.com/science/article/pii/0042682279904677>
 
 1980 Siddell - Biochemistry of coronaviruses
-  https://www.ncbi.nlm.nih.gov/pubmed/7039259
+<https://www.ncbi.nlm.nih.gov/pubmed/7039259>
 
 1981 Biochemistry and Biology of Coronaviruses V. ter MeulenS. SiddellH. Wege
-  https://link.springer.com/content/pdf/10.1007%2F978-1-4757-0456-3.pdf
+<https://link.springer.com/content/pdf/10.1007%2F978-1-4757-0456-3.pdf>
 
 1981 Mahy 1981 - Biochemistry Of Coronaviruses
-  https://www.ncbi.nlm.nih.gov/pubmed/6300299
-  https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-64-4-761
+<https://www.ncbi.nlm.nih.gov/pubmed/6300299>
+<https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-64-4-761>
 
 1983 Siddell - Biology of coronaviruses (J Gen Virol) - JV0640040761
 
 1983 Siddell - Coronaviridae (Intervirology)
-  https://www.ncbi.nlm.nih.gov/pubmed/6654644
+<https://www.ncbi.nlm.nih.gov/pubmed/6654644>
 
 2010 Infectious Diseases book - Schaffer et al “Respiratory chapter”
-  https://www.sciencedirect.com/science/article/pii/B9780323045797001623
+<https://www.sciencedirect.com/science/article/pii/B9780323045797001623>
 
 2012 Virus taxonomy book
-  https://www.sciencedirect.com/science/article/pii/B9780123846846000689
+<https://www.sciencedirect.com/science/article/pii/B9780123846846000689>
 
 2012 Virology book - Korsman “Human coronaviruses”
-  https://www.sciencedirect.com/science/article/pii/B9780443073670000409
+<https://www.sciencedirect.com/science/article/pii/B9780443073670000409>
 
 2015 Anthony R. Fehr and Stanley Perlman, M.D., Ph.D - Coronaviruses: An Overview of Their Replication and Pathogenesis
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/>
 
 
 # Other resources
 
 ## Ontario provincial briefings
 
-- CPAC posts all provincial briefings here: [https://www.youtube.com/user/cpac](https://www.youtube.com/user/cpac)
-- May 29 briefing, for example, [https://youtu.be/0Es3FVv7Dgk](https://youtu.be/0Es3FVv7Dgk)
+- CPAC posts all provincial briefings here: <https://www.youtube.com/user/cpac>
+- May 29 briefing, for example, <https://youtu.be/0Es3FVv7Dgk>
 
 ## Documents
 
