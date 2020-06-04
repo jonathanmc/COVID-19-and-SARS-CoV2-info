@@ -7,9 +7,10 @@
 
     {%- include header.html -%}
 
+
     <main class="page-content" aria-label="Content">
+      {% include toc.html html=content sanitize=true %}
       <div class="wrapper">
-        {% include toc.html html=content %}
         {{ content }}
       </div>
     </main>
