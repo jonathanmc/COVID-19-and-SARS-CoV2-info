@@ -2,7 +2,7 @@
 
 # Information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it)
 
-By [@niemczwiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston).
+By [@niemkiiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston).
 
 # Charts of Ontario COVID-19 cases
 
