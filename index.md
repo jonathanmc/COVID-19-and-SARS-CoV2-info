@@ -6,12 +6,8 @@ By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https
 
 # Quick links to Canada, Ontario, and Toronto official numbers.
 
-## Canada
-
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 Canada cases, official
-
-## Ontario
 
 <http://covid-19.ontario.ca/>
 - Ontario cases, official. Links to the pages below:
@@ -20,12 +16,10 @@ Canada cases, official
   1. data on status of cases: <https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario>
   1. Daily epi summaries from PHO: <https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario>
 
-## Toronto
-
 <https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
   - detailed information for Toronto
 
-# Ontario COVID-19 cases, in Charts
+# Ontario COVID-19 cases, in charts. Updated periodically.
 
 We wanted to know more about Toronto and the surrounding region. Data from the Ontario government, and the links to the data are below, in the links section.
 
