@@ -1,9 +1,9 @@
 ---
-title: "first post"
+title: "Ontario data, graphed"
 date: 2020-06-06 17:45:00
 ---
 
-# June 6: Ontario data, graphed.
+# Ontario data, graphed.
 
 ![a](2020-06-06 1.png)
 ![a](2020-06-06 2.png)
