@@ -3,11 +3,14 @@ author: me
 email: jonathanmc@gmail.com
 description: Information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it)
 
+url: https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/
+
 # social links
 twitter_username: jmcrookston	# DO NOT include the @ character, or else the build will fail!
 github_username:  jonathanmc	# DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false 		# set to false to remove excerpts on the homepage
+
 
 #theme: jekyll-theme-cayman
 theme: minima
