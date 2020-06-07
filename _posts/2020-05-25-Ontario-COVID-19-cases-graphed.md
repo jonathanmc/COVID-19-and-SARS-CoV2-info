@@ -1,5 +1,5 @@
 ---
-title: "Ontario COVID-19 cases, in charts. Updated periodically"
+title: "Ontario COVID-19 cases, in charts."
 date: 2020-05-25 12:00:00
 ---
 

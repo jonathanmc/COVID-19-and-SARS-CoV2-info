@@ -1,9 +1,9 @@
 ---
-title: "Useful resources dealing with COVID-19"
+title: "Useful COVID-19 and SARS-CoV2 links"
 date: 2020-05-20 12:00:00
 ---
 
-# Useful links
+## Useful COVID-19 links
 
 ## 1.1.	self-diagnosis sites
 
