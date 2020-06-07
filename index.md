@@ -4,6 +4,34 @@
 
 By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston). We are two Toronto intellectual property lawyers with science backgrounds who have many years' experience in various pieces of the health industry.
 
+# Quick reference to Canada, Ontario, and Toronto numbers.
+
+## Canada
+
+<https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
+Canada cases, official
+
+## Ontario
+
+<http://covid-19.ontario.ca/>
+Ontario cases, official
+
+<https://www.ontario.ca/page/how-ontario-is-responding-covid-19>
+- has stats
+- links to epi data:
+
+<https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario>
+-- daily epi summaries
+
+## Toronto
+
+<https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
+  - detailed information for Toronto
+
+
+
+
+
 # Charts of Ontario COVID-19 cases
 
 Data from Ontario government here [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
@@ -199,43 +227,41 @@ Prevalence calculator
 - good charts of deaths by countries, including excess mortality charts
 
 
-[https://www.icuregswe.org/en/data--results/covid-19-in-swedish-intensive-care/](https://www.icuregswe.org/en/data--results/covid-19-in-swedish-intensive-care/)
+<https://www.icuregswe.org/en/data--results/covid-19-in-swedish-intensive-care/>
 - Swedish ICU data:
 
-[http://www.cidrap.umn.edu/covid-19/maps-visuals](http://www.cidrap.umn.edu/covid-19/maps-visuals)
+<http://www.cidrap.umn.edu/covid-19/maps-visuals>
 - List of COVID-19 tracking dashboards
 
-[https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html)
+<https://coronavirus.jhu.edu/map.html>
 [https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - Johns Hopkins
 
 - GITHUB repo of all WHO sitreps
-https://github.com/CSSEGISandData/COVID-19
+<https://github.com/CSSEGISandData/COVID-19>
 
-http://nssac.bii.virginia.edu/covid-19/dashboard/
+<http://nssac.bii.virginia.edu/covid-19/dashboard/>
 - Can animate the outbreak
 
-https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+<https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html>
 
-https://ncov.dxy.cn/ncovh5/view/pneumonia
+<https://ncov.dxy.cn/ncovh5/view/pneumonia>
 - Chinese numbers
 
-https://www.healthmap.org/covid-19/
+<https://www.healthmap.org/covid-19/>
 
-https://www.google.com/search?&q=covid+number
+<https://www.google.com/search?&q=covid+number>
 - Google search will show you covid numbers.
 - Google news dashboard:
 
-https://news.google.com/covid19/map?hl=en-CA&gl=CA&ceid=CA:en
+<https://news.google.com/covid19/map?hl=en-CA&gl=CA&ceid=CA:en>
 
-https://covid19.who.int/
+<https://covid19.who.int/>
 - WHO dashboard. Largely useless.
 
 
 
-### 1.4.1.	Canada
-
-official:
+### 1.4.1.	Canada, official:
 
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 Canada cases, official
@@ -244,7 +270,7 @@ Canada cases, official
 Public Health Canada’s dashboard, by province
 - not great
 
-unofficial:
+### Canada, unofficial:
 
 <http://www.covid-19canada.com/>
 Canada cases, unofficial:
@@ -253,21 +279,15 @@ Canada cases, unofficial:
 - not great
 
 
-### 1.4.2.	Ontario
-
-official
+### 1.4.2.	Ontario, official
 
 <http://covid-19.ontario.ca/>
 - main page
 - links to the responding page below
 - also links to data
-  1. data on cases
-<https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario>
-  1. data on status of cases
-<https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario>
-  1. dataset:
-<https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350>
-- Ontario data
+  1. data on cases: <https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario>
+  1. data on status of cases: <https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario>
+  1. dataset: <https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350>
 
 <https://www.ontario.ca/page/how-ontario-is-responding-covid-19>
 - has stats
@@ -281,9 +301,7 @@ official
 <https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus>
 - how you can help
 
-
-
-unofficial:
+### Ontario, unofficial:
 
 <https://howsmyflattening.ca/#/analysis>
 Ontario specific.
@@ -308,33 +326,34 @@ Emergency Management and Civil Protection Act, RSO 1990, c E
 
 ### 1.4.3.	Regional, City of Toronto, etc.
 
-<https://www.toronto.ca/home/covid-19/>
-
 <https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
+  - detailed information for Toronto
 
+<https://www.toronto.ca/home/covid-19/>
 <https://www.toronto.ca/home/covid-19/covid-19-what-you-should-do/covid-19-orders-directives-by-laws/>
+  - other Toronto Information
 
-Haldimand orders:
 <https://hnhu.org/orders-issued-by-the-medical-officer-of-health/>
+  MOH orders for Haldimand county
 
 
 ### 1.4.4.	US
 
 <https://covidtracking.com/>
-tracks US cases by state and grades the data
+  tracks US cases by state and grades the data
 
 <https://coronavirus.1point3acres.com/en>
-US and Canada information
+  US and Canada information
 
 ### 1.4.5.	US by state
 
 <https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-metro-area-tracker.html?action=click&module=RelatedLinks&pgtype=Article>
 
 <https://www.sfdph.org/dph/alerts/coronavirus.asp>
-San Francisco
+  San Francisco
 
 <https://data.sfgov.org/stories/s/fjki-2fab>
-San Francisco
+  San Francisco
 
 
 # Scientific  resources
