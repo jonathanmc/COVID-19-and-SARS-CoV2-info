@@ -1,6 +1,12 @@
 ---
+<<<<<<< HEAD
 title: "first post"
 date: 2020-06-06 17:45:00
+=======
+title: first post
+date: {}
+published: true
+>>>>>>> 39f8c3245c7ee8ecc2e5a3e3625a18b4e007afef
 ---
 
 # June 6: Ontario data, graphed.
