@@ -1,3 +1,7 @@
+layout: page
+title: "Ontario data, graphed"
+date: 2020-06-06 17:25:00 -0000
+categories: Ontario graphs
 
 # June 6: Ontario data, graphed.
 
