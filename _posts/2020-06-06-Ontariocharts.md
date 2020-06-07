@@ -1,6 +1,7 @@
 ---
-title: "first post"
-date: 2020-06-06
+title: first post
+date: {}
+published: false
 ---
 
 # June 6: Ontario data, graphed.
