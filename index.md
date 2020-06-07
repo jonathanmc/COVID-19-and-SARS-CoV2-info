@@ -215,10 +215,10 @@ Prevalence calculator
 
 ## 1.4.	Case dashboards and other data
 
-[https://ourworldindata.org/](https://ourworldindata.org/)
+<https://ourworldindata.org/>
 - very good
 
-[https://www.ft.com/coronavirus-latest](https://www.ft.com/coronavirus-latest)
+<https://www.ft.com/coronavirus-latest>
 - good charts of deaths by countries, including excess mortality charts
 
 
@@ -229,11 +229,11 @@ Prevalence calculator
 - List of COVID-19 tracking dashboards
 
 <https://coronavirus.jhu.edu/map.html>
-[https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+<https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6>
 - Johns Hopkins
 
-- GITHUB repo of all WHO sitreps
 <https://github.com/CSSEGISandData/COVID-19>
+- GITHUB repo of all WHO sitreps
 
 <http://nssac.bii.virginia.edu/covid-19/dashboard/>
 - Can animate the outbreak
@@ -351,7 +351,7 @@ Emergency Management and Civil Protection Act, RSO 1990, c E
 
 # Other resources
 
-# Scientific articles/papers
+## Scientific articles/papers
 
   1974 Monto - review of corona
     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf
@@ -394,7 +394,7 @@ Emergency Management and Civil Protection Act, RSO 1990, c E
   2015 Anthony R. Fehr and Stanley Perlman, M.D., Ph.D - Coronaviruses: An Overview of Their Replication and Pathogenesis
   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/>
 
-## Documents
+## Other documents
 
 [SARS Commission report](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/documents/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
 
