@@ -2,7 +2,7 @@
 
 # Information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it)
 
-By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston). We are two Toronto intellectual property and 
+By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston). We are two Toronto intellectual property lawyers with science backgrounds who have many years' experience in the technical patent as well as policy side of the health industry.
 
 # Charts of Ontario COVID-19 cases
 
