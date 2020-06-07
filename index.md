@@ -77,6 +77,21 @@ Please remember that the last 3-5 (or so) days in every chart are not yet comple
 
 <iframe width="911" height="707" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AC01DB97FB9EA8B%212545&authkey=%21AErAkjoFAjh5jQw&em=2&wdAllowInteractivity=False&Item=GTA%20v%20Ont%20comm&wdInConfigurator=True"></iframe>
 
+# June 6: Ontario data, graphed.
+
+![a](img\2020-06-06 1.png)
+![a](img\2020-06-06 2.png)
+![a](img\2020-06-06 3.png)
+![a](img\2020-06-06 4.png)
+![a](img\2020-06-06 5.png)
+![a](img\2020-06-06 6.png)
+![a](img\2020-06-06 age 1.png)
+![a](img\2020-06-06 age 2.png)
+![a](img\2020-06-06 age 3.png)
+![a](img\2020-06-06 age 4.png)
+![a](img\2020-06-06 age 5.png)
+
+
 # Tips for dealing with COVID-19 (written May 30, 2020)
 
 [I will likely edit this periodically]
