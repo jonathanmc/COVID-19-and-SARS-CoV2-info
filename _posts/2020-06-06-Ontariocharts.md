@@ -1,7 +1,7 @@
 ---
 title: first post
 date: {}
-published: false
+published: true
 ---
 
 # June 6: Ontario data, graphed.
