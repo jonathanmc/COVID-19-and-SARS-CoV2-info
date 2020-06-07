@@ -7,26 +7,26 @@ These may show you how this virus travels. Names are the primary authors of the 
 
 ### Hunan
 
-![a](2020-01 Hunan bus2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_073626.webp)
+![a]({{ site.url }}/2020-01 Hunan bus2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_073626.webp)
 
 ### Cai
 
-![a](2020-04 Lu 20-0764-F1.jpg)
+![a]({{ site.url }}/2020-04 Lu 20-0764-F1.jpg)
 
 ### Lu
 
-![a](2020-04 Lu 20-0764-F1.jpg)
+![a]({{ site.url }}/2020-04 Lu 20-0764-F1.jpg)
 
 ### Singapore  
 
-![a](2020-04 Singapore gr1_lrg.jpg)
-![a](2020-04 Singapore gr2_lrg.jpg)
+![a]({{ site.url }}/2020-04 Singapore gr1_lrg.jpg)
+![a]({{ site.url }}/2020-04 Singapore gr2_lrg.jpg)
 
 ### Choir outbreak
 
-![a](2020-05 choir mm6919e6-F.png)
+![a]({{ site.url }}/2020-05 choir mm6919e6-F.png)
 
 ### Korean call centre outbreak
 
-![a](2020-xx call centre 20-1274-F1.jpg)
-![a](2020-xx call centre 20-1274-F2.jpg)
+![a]({{ site.url }}/2020-xx call centre 20-1274-F1.jpg)
+![a]({{ site.url }}/2020-xx call centre 20-1274-F2.jpg)
