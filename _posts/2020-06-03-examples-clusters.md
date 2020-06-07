@@ -3,8 +3,6 @@ title: "Examples of clusters of attack of COVID-19"
 date: 2020-06-03 12:00:00
 ---
 
-## Examples of clusters of attack of COVID-19
-
 These may show you how this virus travels. Names are the primary authors of the reported studies. I've only put the graphics here for now.
 
 ### Hunan

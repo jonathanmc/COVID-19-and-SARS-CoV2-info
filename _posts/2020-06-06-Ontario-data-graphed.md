@@ -1,9 +1,8 @@
 ---
 title: "Ontario data, graphed"
+layout: post
 date: 2020-06-06 17:45:00
 ---
-
-## Ontario data, graphed.
 
 ![a](/COVID-19-and-SARS-CoV2-info/_posts/2020-06-06 1.png)
 ![a](/COVID-19-and-SARS-CoV2-info/_posts/2020-06-06 2.png)
