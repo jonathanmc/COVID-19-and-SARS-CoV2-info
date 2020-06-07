@@ -1,6 +1,6 @@
 ---
 title: "first post"
-date: 2020-05-30
+date: 2020-06-06
 ---
 
 # June 6: Ontario data, graphed.
