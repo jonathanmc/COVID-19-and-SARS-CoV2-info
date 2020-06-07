@@ -3,7 +3,7 @@ title: "Ontario COVID-19 cases, in charts. Updated periodically"
 date: 2020-05-25 12:00:00
 ---
 
-# Ontario COVID-19 cases, in charts. Updated periodically.
+Ontario COVID-19 cases, in charts. Updated periodically.
 
 We wanted to know more about Toronto and the surrounding region. Data from the Ontario government, and the links to the data are below, in the links section.
 
