@@ -246,6 +246,6 @@ Emergency Management and Civil Protection Act, RSO 1990, c E
 
 ## Other documents
 
-[SARS Commission report](https://jonathanmc.github.io/COVID-19-and-SARS-CoV2-info/documents/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
+[SARS Commission report]({{ site.url }}/documents/2004-2006 SARS Commission reports (interim and final)/00 full report 268478.pdf)
 
 [SARS Commission report website](http://www.archives.gov.on.ca/en/e_records/sars/report/index.html)
