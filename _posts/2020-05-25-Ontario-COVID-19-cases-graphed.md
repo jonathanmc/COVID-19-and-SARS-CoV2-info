@@ -1,6 +1,6 @@
 ---
 title: "Ontario COVID-19 cases, in charts. Updated periodically"
-date: 2020-06-01 12:00:00
+date: 2020-05-25 12:00:00
 ---
 
 # Ontario COVID-19 cases, in charts. Updated periodically.
