@@ -12,6 +12,8 @@ By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https
 
 This site provides information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it).
 
+Visualizations here <https://jonathanmc.github.io/jonathanmc/covid-19-vis/>
+
 ## Quick links to Canada, Ontario, and Toronto official numbers.
 
 Canada:
