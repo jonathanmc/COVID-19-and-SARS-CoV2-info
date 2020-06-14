@@ -4,6 +4,7 @@ layout: post
 date: 2020-06-08 12:00:00
 ---
 
+These graphics are static and do not update.
 
 ![a]({{ site.url }}/img/2020-06-08 visualization (1) date, age stacked.png)
 

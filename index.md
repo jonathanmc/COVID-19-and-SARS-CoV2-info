@@ -8,15 +8,17 @@
 layout: home
 ---
 
-By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston). We are two Toronto intellectual property lawyers with science backgrounds who have many years' experience in various pieces of the health industry.
+By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston).
 
-This site provides information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it).
+We are two Toronto intellectual property lawyers with science backgrounds and many years' experience in various sides of the health industry. This page is just our collected calculations, etc.
 
-## Graphics
+This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it).
+
+## Visualizations of Ontario COVID-19 data
 
 Visualizations here <https://jonathanmc.github.io/covid-19-vis/>
 
-## Quick links to Canada, Ontario, and Toronto official numbers.
+## Quick links to official COVID-19 data from Canada, Ontario, and Toronto.
 
 Canada:
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
