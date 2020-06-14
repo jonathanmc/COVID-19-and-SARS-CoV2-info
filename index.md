@@ -14,11 +14,11 @@ We are two Toronto intellectual property lawyers with science backgrounds and ma
 
 This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it).
 
-## Visualizations of Ontario COVID-19 data
+# Visualizations of Ontario COVID-19 data
 
-Visualizations here <https://jonathanmc.github.io/covid-19-vis/>
+Visualizations here: <https://jonathanmc.github.io/covid-19-vis/>
 
-## Quick links to official COVID-19 data from Canada, Ontario, and Toronto.
+# Quick links to official COVID-19 data from Canada, Ontario, and Toronto.
 
 Canada:
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
