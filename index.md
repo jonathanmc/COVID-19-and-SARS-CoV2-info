@@ -10,7 +10,7 @@ layout: home
 
 By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston).
 
-We are two Toronto intellectual property lawyers with science backgrounds and experience in pharmaceutical/health issues. This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it), and was where we put our personal data analyses.
+We are two Toronto intellectual property lawyers with science backgrounds and experience in pharmaceutical/health issues. This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it), and was where we put our data analyses.
 
 # Visualizations of Ontario COVID-19 data
 
