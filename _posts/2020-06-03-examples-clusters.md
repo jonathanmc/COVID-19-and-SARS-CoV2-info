@@ -11,7 +11,7 @@ These may show you how this virus travels. Names are the primary authors of the 
 
 ### Cai
 
-![a]({{ site.url }}/2020-04 Lu 20-0764-F1.jpg)
+![a]({{ site.url }}/2020-03-12 Cai 20-0412-F1.jpg)
 
 ### Lu
 
