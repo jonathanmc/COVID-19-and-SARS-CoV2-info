@@ -14,11 +14,11 @@ We are two Toronto intellectual property lawyers with science backgrounds and ex
 
 # Visualizations of Ontario COVID-19 data
 
-Visualizations here: <https://jonathanmc.github.io/covid-19-vis/>
+Ontario COVID-19 data that updates every 6 hours is here:
 
-#
+<https://jonathanmc.github.io/covid-19-vis/>
 
-# Quick links to official COVID-19 data from Canada, Ontario, and Toronto.
+# Official COVID-19 data from Canada, Ontario, and Toronto
 
 Canada: <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 
