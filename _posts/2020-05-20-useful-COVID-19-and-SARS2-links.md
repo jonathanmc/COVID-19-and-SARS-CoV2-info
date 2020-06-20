@@ -146,6 +146,9 @@ Canada cases, unofficial:
 <https://www.ontario.ca/page/2019-novel-coronavirus>
 - Ontario COVID-19 page
 
+<https://www.publichealthontario.ca/en/data-and-analysis/infectious-disease/covid-19-data-surveillance>
+Public Health Ontario data
+
 <https://covid-19.ontario.ca/how-your-organization-can-help-fight-coronavirus>
 - how you can help
 
