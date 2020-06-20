@@ -3,13 +3,11 @@ title: "Useful COVID-19 and SARS-CoV2 links"
 date: 2020-05-20 12:00:00
 ---
 
-## 1.1.	self-diagnosis sites
+## self-diagnosis sites, and sites tracking risk in your area
 
 <https://covidassessment.org>
 
 <https://www.humandx.org/covid-19/assessment>
-
-## 1.2.	enter your data and it tracks risk, and tells you how much risk in your area
 
 <http://covidnearyou.org/>
 - US, Canada and Mexico
@@ -18,7 +16,7 @@ date: 2020-05-20 12:00:00
 <http://flatten.ca/heat-map>
 - Canadian
 
-## 1.3.	Modelling / estimates
+## Modelling / estimates
 
 <https://covid19-projections.com/us>
 <https://covid19-projections.com/canada>
@@ -32,7 +30,7 @@ date: 2020-05-20 12:00:00
 <https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html>
 - CDC’s page of models
 
-### 1.3.1.	Individual models:
+### 1.3.1.	Individual models
 
 <https://www.covidanalytics.io/projections>
 - MIT models - few weeks out only
@@ -104,7 +102,10 @@ Prevalence calculator
 <https://covid19.who.int/>
 - WHO dashboard. Largely useless.
 
-### 1.4.1.	Canada, official:
+<https://akuko.io/post/covid-intervention-tracking>
+- tracking what countries introduced what measures around the world and when
+
+### 1.4.1.	Canada, official information
 
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 Canada cases, official
