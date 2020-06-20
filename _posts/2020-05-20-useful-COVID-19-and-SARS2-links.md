@@ -108,6 +108,8 @@ Prevalence calculator
 
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 Canada cases, official
+<https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html>
+Canada info, official
 
 <https://experience.arcgis.com/experience/2f1a13ca0b29422f9b34660f0b705043/>
 Public Health Canada’s dashboard, by province
