@@ -15,35 +15,35 @@ List of countries that have done well in their response to COVID-19
 
 COVID-19 cases:
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-3f8a6adf.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3f8a6adf.png)
 
 population:
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-c2b791e0.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-c2b791e0.png)
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-200712b4.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-200712b4.png)
 
 biggest cities:
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-3f90e7ab.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3f90e7ab.png)
 
 
 # Mongolia
 
 COVID-19 cases
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-eb4a6237.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-eb4a6237.png)
 
 
 population: 3.15 million.
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-4bfacb81.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-4bfacb81.png)
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-cbf218f2.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-cbf218f2.png)
 
 biggest cities
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-983165d1.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-983165d1.png)
 
 
 
@@ -51,37 +51,37 @@ biggest cities
 
 COVID-19 cases
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-ef5805cc.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-ef5805cc.png)
 
 
 
 population
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-b8ceeb86.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-b8ceeb86.png)
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-a8919ccc.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-a8919ccc.png)
 
 biggest cities:
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-13f2fce0.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-13f2fce0.png)
 
 
 # Vietnam
 
 COVID-19 cases
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-fa8c642d.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-fa8c642d.png)
 
 population:
 
 95 million.
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-f833a3cb.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-f833a3cb.png)
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-bc2b84fe.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-bc2b84fe.png)
 
 biggest cities:
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-1edb3a72.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-1edb3a72.png)
 
-![](2020-06-22-countries-who-have-done-well-with-COVID-19-3308e798.png)
+![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3308e798.png)
