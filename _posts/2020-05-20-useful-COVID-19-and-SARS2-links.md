@@ -3,6 +3,24 @@ title: "Useful COVID-19 and SARS-CoV2 links"
 date: 2020-05-20 12:00:00
 ---
 
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+  - [self-diagnosis sites, and sites tracking risk in your area](#self-diagnosis-sites-and-sites-tracking-risk-in-your-area)
+  - [Modelling / estimates](#modelling--estimates)
+    - [1.3.1.	Individual models](#131individual-models)
+  - [1.4.	Case dashboards and other data](#14case-dashboards-and-other-data)
+    - [1.4.1.	Canada, official information](#141canada-official-information)
+    - [Canada, unofficial:](#canada-unofficial)
+    - [1.4.2.	Ontario, official](#142ontario-official)
+    - [Ontario, unofficial:](#ontario-unofficial)
+    - [1.4.3.	Regional, City of Toronto, etc.](#143regional-city-of-toronto-etc)
+    - [1.4.4.	US](#144us)
+    - [1.4.5.	US by state](#145us-by-state)
+- [Other resources](#other-resources)
+  - [Scientific articles/papers](#scientific-articlespapers)
+  - [Other documents](#other-documents)
+<!-- TOC END -->
+
+
 ## self-diagnosis sites, and sites tracking risk in your area
 
 <https://covidassessment.org>
@@ -167,19 +185,23 @@ Ontario specific.
 
 statutes, rules etc:
 
+<https://www.canlii.org/en/on/laws/stat/rso-1990-c-h7/latest/rso-1990-c-h7.html>
 Health Protection and Promotion Act, RSO 1990, c H.7
 
-Emergency Management and Civil Protection Act, RSO 1990, c E
 <https://www.canlii.org/en/on/laws/stat/rso-1990-c-e9/latest/rso-1990-c-e9.html>
+Emergency Management and Civil Protection Act, RSO 1990, c E
 
 ### 1.4.3.	Regional, City of Toronto, etc.
 
 <https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
-  - detailed information for Toronto
+- detailed information for Toronto
 
 <https://www.toronto.ca/home/covid-19/>
 <https://www.toronto.ca/home/covid-19/covid-19-what-you-should-do/covid-19-orders-directives-by-laws/>
-  - other Toronto Information
+- other Toronto Information
+
+<https://www.toronto.ca/home/covid-19/covid-19-what-you-should-do/covid-19-orders-directives-by-laws/>
+- City of Toronto by laws
 
 <https://hnhu.org/orders-issued-by-the-medical-officer-of-health/>
   MOH orders for Haldimand county
