@@ -13,17 +13,17 @@ List of countries that have done well in their response to COVID-19
 
 # Hong Kong
 
-## COVID-19 cases:
+## COVID-19 cases
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3f8a6adf.png)
 
-## population:
+## population
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-c2b791e0.png)
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-200712b4.png)
 
-## biggest cities:
+## biggest cities
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3f90e7ab.png)
 
