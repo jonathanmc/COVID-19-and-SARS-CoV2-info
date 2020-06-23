@@ -4,15 +4,12 @@ date: 2020-06-22 12:00:00
 ---
 List of countries that have done well in their response to COVID-19
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Hong Kong](#hong-kong)
 - [Mongolia](#mongolia)
 - [Taiwan](#taiwan)
 - [Vietnam](#vietnam)
-
-<!-- /TOC -->
-
+<!-- TOC END -->
 
 # Hong Kong
 

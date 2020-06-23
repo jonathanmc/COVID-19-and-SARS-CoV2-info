@@ -8,9 +8,11 @@
 layout: home
 ---
 
-By [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  and [@jmcrookston](https://twitter.com/jmcrookston).
+By [@jmcrookston](https://twitter.com/jmcrookston) and [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  
 
 We are two Toronto intellectual property lawyers with science backgrounds and experience in pharmaceutical/health issues. This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it), and was where we put our data analyses.
+
+Charts by the both of us. The rest by me alone (Jonathan).
 
 # Visualizations of Ontario COVID-19 data
 
