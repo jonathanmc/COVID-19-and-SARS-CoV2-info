@@ -13,66 +13,64 @@ List of countries that have done well in their response to COVID-19
 
 # Hong Kong
 
-COVID-19 cases:
+## COVID-19 cases:
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3f8a6adf.png)
 
-population:
+## population:
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-c2b791e0.png)
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-200712b4.png)
 
-biggest cities:
+## biggest cities:
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-3f90e7ab.png)
 
 
 # Mongolia
 
-COVID-19 cases
+## COVID-19 cases
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-eb4a6237.png)
 
 
-population: 3.15 million.
+## population
+
+3.15 million
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-4bfacb81.png)
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-cbf218f2.png)
 
-biggest cities
+## biggest cities
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-983165d1.png)
 
-
-
 # Taiwan
 
-COVID-19 cases
+## COVID-19 cases
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-ef5805cc.png)
 
-
-
-population
+## population
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-b8ceeb86.png)
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-a8919ccc.png)
 
-biggest cities:
+## biggest cities
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-13f2fce0.png)
 
 
 # Vietnam
 
-COVID-19 cases
+## COVID-19 cases
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-fa8c642d.png)
 
-population:
+## population
 
 95 million.
 
@@ -80,7 +78,7 @@ population:
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-bc2b84fe.png)
 
-biggest cities:
+## biggest cities
 
 ![]({{ site.url }}/img/2020-06-22-countries-who-have-done-well-with-COVID-19-1edb3a72.png)
 
