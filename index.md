@@ -8,17 +8,18 @@
 layout: home
 ---
 
-By [@jmcrookston](https://twitter.com/jmcrookston) and [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  
-
-We are two Toronto intellectual property lawyers with science backgrounds and experience in pharmaceutical/health issues. This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it), and was where we put our data analyses.
-
-Excel charts by the both of us. Blame for the rest of this lies with me alone (Jonathan).
-
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
   - [Visualizations of Ontario COVID-19 data](#visualizations-of-ontario-covid-19-data)
   - [Official COVID-19 data from Canada, Ontario, and Toronto](#official-covid-19-data-from-canada-ontario-and-toronto)
 <!-- TOC END -->
 
+# Intro
+
+By [@jmcrookston](https://twitter.com/jmcrookston) and [@niemkiewiczIP](https://twitter.com/niemkiewiczIP)  
+
+We are two Toronto intellectual property lawyers with science backgrounds and experience in pharmaceutical/health issues. This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it), and was where we put our data analyses.
+
+Excel charts by the both of us. Blame for the rest of this lies with me alone (Jonathan).
 
 # Visualizations of Ontario COVID-19 data
 
