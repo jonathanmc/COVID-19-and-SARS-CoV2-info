@@ -1,5 +1,5 @@
 ---
-title: "Ontario COVID-19 cases, graphed (static)"
+title: "Ontario COVID-19 cases, charted (static pictures)"
 layout: post
 date: 2020-06-06 17:45:00
 ---
