@@ -1,6 +1,14 @@
 ---
-title: "Ontario COVID-19 cases, in charts."
+title: "Ontario COVID-19 cases, charted"
 date: 2020-05-25 12:00:00
+---
+
+NOTE:
+
+THESE CHARTS MAY NOT AUTO UPDATE.
+
+See <https://jonathanmc.github.io/covid-19-vis/> for auto-updating charts.
+
 ---
 
 We wanted to know more about Toronto and the surrounding region. Data from the Ontario government, and the links to the data are below, in the links section.

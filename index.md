@@ -12,15 +12,21 @@ By [@jmcrookston](https://twitter.com/jmcrookston) and [@niemkiewiczIP](https://
 
 We are two Toronto intellectual property lawyers with science backgrounds and experience in pharmaceutical/health issues. This site provides general information about COVID-19 (the disease) and SARS-CoV2 (the virus that causes it), and was where we put our data analyses.
 
-Charts by the both of us. The rest by me alone (Jonathan).
+Excel charts by the both of us. Blame for the rest of this lies with me alone (Jonathan).
 
-# Visualizations of Ontario COVID-19 data
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
+  - [Visualizations of Ontario COVID-19 data](#visualizations-of-ontario-covid-19-data)
+  - [Official COVID-19 data from Canada, Ontario, and Toronto](#official-covid-19-data-from-canada-ontario-and-toronto)
+<!-- TOC END -->
+
+
+## Visualizations of Ontario COVID-19 data
 
 Ontario COVID-19 data that updates every 6 hours is here:
 
 <https://jonathanmc.github.io/covid-19-vis/>
 
-# Official COVID-19 data from Canada, Ontario, and Toronto
+## Official COVID-19 data from Canada, Ontario, and Toronto
 
 Canada: <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 
