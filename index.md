@@ -20,13 +20,13 @@ Excel charts by the both of us. Blame for the rest of this lies with me alone (J
 <!-- TOC END -->
 
 
-## Visualizations of Ontario COVID-19 data
+# Visualizations of Ontario COVID-19 data
 
 Ontario COVID-19 data that updates every 6 hours is here:
 
 <https://jonathanmc.github.io/covid-19-vis/>
 
-## Official COVID-19 data from Canada, Ontario, and Toronto
+# Official COVID-19 data from Canada, Ontario, and Toronto
 
 Canada: <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
 
