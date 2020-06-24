@@ -99,9 +99,9 @@ List of countries that have done well in their response to COVID-19
 - started huge contact tracing initiative
 - quarantined huge numbers of people and tested them.
 - sealed off outbreaks
-- - Feb in Son Loi more than 10000 were sealed office
-- - 11000 in Ha Loi communite near capital
-- - kept closed until 2 weeks no csaes
+- - Feb in Son Loi more than 10000 were sealed off
+- - 11000 in Ha Loi commune near capital
+- - kept closed until 2 weeks no cases
 - clear public messaging
 - - regular SMS messages
 - - gave sense of society working together to defeat the enemy
