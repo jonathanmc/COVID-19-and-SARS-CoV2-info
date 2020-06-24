@@ -4,7 +4,7 @@ date: 2020-06-22 12:00:00
 ---
 List of countries that have done well in their response to COVID-19
 
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
   - [Hong Kong](#hong-kong)
     - [COVID-19 cases](#covid-19-cases)
     - [population](#population)
