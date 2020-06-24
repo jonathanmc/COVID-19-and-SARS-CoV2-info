@@ -1,5 +1,5 @@
 ---
-title: "Countries who have done well with COVID-19"
+title: "Countries that have done well with COVID-19"
 date: 2020-06-22 12:00:00
 ---
 List of countries that have done well in their response to COVID-19
