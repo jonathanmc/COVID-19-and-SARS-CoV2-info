@@ -9,9 +9,15 @@ layout: home
 ---
 
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
-  - [Visualizations of Ontario COVID-19 data](#visualizations-of-ontario-covid-19-data)
-  - [Official COVID-19 data from Canada, Ontario, and Toronto](#official-covid-19-data-from-canada-ontario-and-toronto)
+- [Intro](#intro)
+- [Visualizations of Ontario COVID-19 data](#visualizations-of-ontario-covid-19-data)
+- [Official COVID-19 data from Canada, Ontario, and Toronto](#official-covid-19-data-from-canada-ontario-and-toronto)
+  - [Canada](#canada)
+  - [Ontario](#ontario)
+  - [Toronto](#toronto)
+- [The original announcement of the discovery of coronaviruses](#the-original-announcement-of-the-discovery-of-coronaviruses)
 <!-- TOC END -->
+
 
 # Intro
 
@@ -29,13 +35,23 @@ Ontario COVID-19 data that updates every 6 hours is here:
 
 # Official COVID-19 data from Canada, Ontario, and Toronto
 
-Canada: <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
+## Canada
 
-Ontario: <http://covid-19.ontario.ca/>
+<https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
+
+## Ontario
+
+<http://covid-19.ontario.ca/>
 - Ontario cases, official. Links to the pages below:
   1. Daily numbers <https://www.ontario.ca/page/how-ontario-is-responding-covid-19>
   1. data on cases: <https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario>
   1. data on status of cases: <https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario>
   1. Daily epi summaries from PHO: <https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario>
 
-Toronto: <https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
+## Toronto
+
+<https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
+
+# The original announcement of the discovery of coronaviruses
+
+![]({{ site.url }}/img/index-1968 coronavirus discovery.png)
