@@ -8,38 +8,38 @@ These may show you how this virus travels. Names are the primary authors of the 
 
 ### Hunan bus
 
-![a]({{ site.url }}/2020-01 Hunan bus2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_073626.webp)
+![a]({{ site.url }}/img/2020-01 Hunan bus2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_073626.webp)
 
 
 ### Cai
 
-![a]({{ site.url }}/2020-03-12 Cai 20-0412-F1.jpg)
+![a]({{ site.url }}/img/2020-03-12 Cai 20-0412-F1.jpg)
 
 
 ### Lu
 
-![a]({{ site.url }}/2020-04 Lu 20-0764-F1.jpg)
+![a]({{ site.url }}/img/2020-04 Lu 20-0764-F1.jpg)
 
 
 ### Singapore  
 
-![a]({{ site.url }}/2020-04 Singapore gr1_lrg.jpg)
+![a]({{ site.url }}/img/2020-04 Singapore gr1_lrg.jpg)
 
-![a]({{ site.url }}/2020-04 Singapore gr2_lrg.jpg)
+![a]({{ site.url }}/img/2020-04 Singapore gr2_lrg.jpg)
 
 
 ### US choir outbreak
 
-![a]({{ site.url }}/2020-05 choir mm6919e6-F.png)
+![a]({{ site.url }}/img/2020-05 choir mm6919e6-F.png)
 
-![a]({{ site.url }}/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium)
+![a]({{ site.url }}/img/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium)
 
 
 ### Korean call centre outbreak
 
-![a]({{ site.url }}/2020-xx call centre 20-1274-F1.jpg)
+![a]({{ site.url }}/img/2020-xx call centre 20-1274-F1.jpg)
 
-![a]({{ site.url }}/2020-xx call centre 20-1274-F2.jpg)
+![a]({{ site.url }}/img/2020-xx call centre 20-1274-F2.jpg)
 
 ### 2020-06 birthday party in U.S.
 
