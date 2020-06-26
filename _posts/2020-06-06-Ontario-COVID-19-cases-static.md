@@ -4,6 +4,11 @@ layout: post
 date: 2020-06-06 17:45:00
 ---
 
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+  - [June 6](#june-6)
+  - [June 8](#june-8)
+<!-- TOC END -->
+
 These graphics are static and do not update.
 
 ## June 6

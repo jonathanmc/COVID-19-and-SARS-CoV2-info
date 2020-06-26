@@ -3,7 +3,7 @@ title: "Useful COVID-19 and SARS-CoV2 links"
 date: 2020-05-20 12:00:00
 ---
 
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
   - [self-diagnosis sites, and sites tracking risk in your area](#self-diagnosis-sites-and-sites-tracking-risk-in-your-area)
   - [Modelling / estimates](#modelling--estimates)
     - [1.3.1.	Individual models](#131individual-models)
