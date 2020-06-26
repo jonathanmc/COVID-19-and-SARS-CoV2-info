@@ -29,7 +29,7 @@ Excel charts by the both of us. Blame for the rest of this lies with me alone (J
 
 # Visualizations of Ontario COVID-19 data
 
-Ontario COVID-19 data that updates every 6 hours is here:
+Ontario COVID-19 data, updated every 6 hours, is here:
 
 <https://jonathanmc.github.io/covid-19-vis/>
 
