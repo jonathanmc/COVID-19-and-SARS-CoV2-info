@@ -3,7 +3,7 @@ title: "Examples of clusters of attack of COVID-19"
 date: 2020-06-03 12:00:00
 ---
 
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
     - [Hunan bus](#hunan-bus)
     - [Cai](#cai)
     - [Lu](#lu)
