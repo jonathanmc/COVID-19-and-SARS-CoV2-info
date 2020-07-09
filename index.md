@@ -15,7 +15,6 @@ layout: home
   - [Canada](#canada)
   - [Ontario](#ontario)
   - [Toronto](#toronto)
-- [The original announcement of the discovery of coronaviruses](#the-original-announcement-of-the-discovery-of-coronaviruses)
 <!-- TOC END -->
 
 
@@ -27,17 +26,20 @@ We are two Toronto intellectual property lawyers with science backgrounds and ex
 
 Excel charts by the both of us. Blame for the rest of this lies with me alone (Jonathan).
 
+
 # Visualizations of Ontario COVID-19 data
 
-Ontario COVID-19 data, updated every 6 hours, is here:
+Ontario COVID-19 data, updated every 6 hours, is at this site, as well as other information.
 
 <https://jonathanmc.github.io/covid-19-vis/>
+
 
 # Official COVID-19 data from Canada, Ontario, and Toronto
 
 ## Canada
 
 <https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html>
+
 
 ## Ontario
 
@@ -48,10 +50,7 @@ Ontario COVID-19 data, updated every 6 hours, is here:
   1. data on status of cases: <https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario>
   1. Daily epi summaries from PHO: <https://covid-19.ontario.ca/covid-19-daily-epidemiologic-summaries-public-health-ontario>
 
+
 ## Toronto
 
 <https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
-
-# The original announcement of the discovery of coronaviruses
-
-![]({{ site.url }}/img/index-1968 coronavirus discovery.png)
